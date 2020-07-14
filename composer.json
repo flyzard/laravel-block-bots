@@ -1,5 +1,5 @@
 {
-    "name": "potelo/laravel-block-bots",
+    "name": "flyzard/laravel-block-bots",
     "description": "Block bots and high traffic offenders using Redis",
     "authors": [
         {
