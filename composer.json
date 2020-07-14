@@ -8,9 +8,9 @@
         }
     ],
     "require": {
-      "illuminate/support": "^5.5",
+      "illuminate/support": "^7.x",
       "predis/predis": "^1.1",
-      "php" : "^7.0"
+      "php" : "^7.2"
     },
 
     "minimum-stability": "dev",
